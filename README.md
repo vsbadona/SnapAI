@@ -1,0 +1,1 @@
+https://snapai.netlify.app/
